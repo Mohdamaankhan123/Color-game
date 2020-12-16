@@ -1,1 +1,1 @@
-# Udemy
+# Color game project
